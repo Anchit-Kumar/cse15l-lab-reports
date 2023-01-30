@@ -9,7 +9,8 @@ and then follow the on-screen instructions to reset the password for the account
   
 # Visual Studio Code
 We then need to download and set up Visual Studio Code which since I already had I didn't need to.\
-You can download it at this site [VSCode Set-Up Link](https://code.visualstudio.com/) 
+You can download it at this site: \
+[VSCode Set-Up Link](https://code.visualstudio.com/) 
   
 If you have a system running Windows you would also need to implement a few other steps first before you can proceed. \
 The first step is installing git. You can do this from this site: \
