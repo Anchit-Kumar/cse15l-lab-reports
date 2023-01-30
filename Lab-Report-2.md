@@ -1,8 +1,11 @@
 # Lab Report 2
 
 ## Part 1 - String Server 
-![Image of my StringServer.java code](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-01-30%20at%201.30.58%20AM.png)
   
+### Code for StringServer.java:
+![Image of my StringServer.java code](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-01-30%20at%201.30.58%20AM.png)
+
+### First /add-message query:
 ![add-message screenshot 1](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-01-30%20at%201.38.09%20AM.png)
 
 In the screenshot above the main method of the StringServer class is called first which in turn calls the Handler class. \
@@ -10,7 +13,8 @@ In the handler class, the handleRequest method is called with the argument passe
 The handleRequest method then implements its 'else if' part which changes the value of the variable storedString by adding the \
 part of the query after "?s=" to the string variable along with a new character and displays the string as it is currently on the \
 webpage.
-
+  
+### Second /add-message query
 ![add-message screenshot 2](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-01-30%20at%201.38.53%20AM.png)
   
 Similarly, in this screenshot the main method of the StringServer class is called again which in turn calls the Handler class. \
