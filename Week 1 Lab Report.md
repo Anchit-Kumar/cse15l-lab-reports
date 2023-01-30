@@ -37,7 +37,7 @@ This is what I saw upon logging in: \
 # Running Commands
 We can then run commands on the remote server. Here are some of the commands I tried: \
 ![Image](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-01-13%20at%205.11.20%20PM.png)
-This is what some of the commands seen in the image above do:
+This is what some of the commands seen in the image above do: \
 *cd* - This command is used to change the working directory to the directory mentioned after this command \
 *ls* - This command prints out all the files in the current working directory \
 *ls -lat* - This command prints out all the files in the current working directory sorted by date and also with \
