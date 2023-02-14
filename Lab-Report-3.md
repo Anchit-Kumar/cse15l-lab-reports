@@ -1,6 +1,6 @@
 # Lab Report 3
 
-sources: chatgpt (prompts: "what does the grep command do", "What does the grep -r command do", "what does the grep -c command do", \
+sources: chatgpt (prompts: "what does the grep command do", "What does the grep -r command do", "what does the grep -c command do", 
 "what does the command grep -l do", "what does the grep -n command do")
 
 ## grep command
