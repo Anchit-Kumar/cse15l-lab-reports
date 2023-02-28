@@ -4,7 +4,7 @@
 Keys Pressed:
 `<up>, <up>, <up>, <up>, <up>, <enter>` 
   
-![step 4 ss](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.39.48%20PM.png) \
+![step 4 ss](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.39.48%20PM.png) 
   
 The ssh command was 5 up in my history so I pressed the up button five times and pressed enter to login. \
 It did not ask for password since we set up ssh-keygen in lab last time. 
@@ -24,10 +24,10 @@ and pressing tab after 'l' in order to autocomplete the command and pressed ente
   
 ## Step 6
 Keys Pressed:
-`<up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up> \
-<up>, <up>, <up>, <up>, <enter>`
-`<up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up> \
-<up>, <up>, <up>, <enter>`
+`<up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up> ` \
+`<up>, <up>, <up>, <up>, <enter>`
+`<up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>, <up>` \
+`<up>, <up>, <up>, <enter>`
 
 ![step 6 ss](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-28%20at%2012.03.13%20AM.png) 
 
