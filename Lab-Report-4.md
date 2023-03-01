@@ -16,9 +16,9 @@ Keys Pressed:
 `cd l<tab>`
 
 
-![step 5 ss](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.57.10%20PM.png) 
+![step 5 ss](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-28%20at%207.00.49%20PM.png) 
 
-I copied the link for the lab7 fork from the github page and then pasted it after typing git clone so that the \
+I copied the link for the lab7 fork from the github page (ssh link) and then pasted it after typing git clone so that the \
 repository can be cloned onto my local desktop. I then changed working directory to lab7 by using the cd command \
 and pressing tab after 'l' in order to autocomplete the command and pressed enter. 
   
@@ -60,13 +60,14 @@ I used the up keys to complile and run the tests again. This time the tests pass
 Keys Pressed:
 `git add . <enter>` \
 `git commit -m "correct ListExamples.java" <enter>` \
-`git push <Ctrl+V> <enter>` 
+`git push origin main <enter>` 
 
-![step 9 ss1](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-28%20at%2012.39.28%20AM.png) 
-![step 9 ss2](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-28%20at%2012.43.57%20AM.png) 
+![step 9 ss1](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-28%20at%207.08.20%20PM.png) 
+![step 9 ss2](https://anchit-kumar.github.io/cse15l-lab-reports/Screenshot%202023-02-28%20at%207.09.14%20PM.png) 
 
-I manually typed out the add command which added all the files to the stage and the commit with message commands. I then typed git \
-push and pasted the ssh link for the lab7 github fork and pressed enter which pushed all the code onto the repository. 
+I manually typed out the add command which added all the files to the stage and the commit with message commands. I then typed \
+`git push origin main` and pressed `<enter>` which pushed all the code onto the repository without asking for username and password since the ieng6 \
+machine is connected via the ssh key we generated.
 
 
 
